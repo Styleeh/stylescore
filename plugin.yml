@@ -1,0 +1,5 @@
+name: StyleBoard
+main: net.style.scoreboard.Main
+version: 1-0-SNAPSHOT
+author: Styleeh (João Victor Vlla)
+depend: [Vault]

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="net/yiatzz/scoreboard/listener/BoardCreator.java" kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/T-Gamer/Desktop/Workspace/_Jars/Vault.jar"/>
+	<classpathentry kind="lib" path="C:/Users/T-Gamer/Desktop/Workspace/_Jars/MassiveCore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/T-Gamer/Desktop/Workspace/_Jars/PlayerPoints.jar"/>
+	<classpathentry kind="lib" path="C:/Users/T-Gamer/Desktop/Workspace/_Jars/mcMMO.jar"/>
+	<classpathentry kind="lib" path="C:/Users/T-Gamer/Desktop/Workspace/_Jars/MambaFactions Premium.jar"/>
+	<classpathentry kind="lib" path="C:/Users/T-Gamer/Desktop/Workspace/_Jars/FocusMobCoins.jar"/>
+	<classpathentry kind="lib" path="C:/Users/T-Gamer/Desktop/Workspace/_Jars/TacoSpigot-1.8.8-95870a9-20180608-0352.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
